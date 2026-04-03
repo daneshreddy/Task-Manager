@@ -4,7 +4,7 @@ A simple and responsive Task Manager application built using React.js. This app 
 
 Features
 User Login (stored using localStorage)
-Add new tasks
+Add new task
 Delete tasks
 Data persistence using localStorage
 Fast and responsive UI
