@@ -1,22 +1,32 @@
-Task Manager App
+# 🚀 Task Manager App
 
-A simple and responsive Task Manager application built using React.js. This app allows users to log in, add tasks, and manage them efficiently with features like delete and persistent storage.
+A simple and responsive Task Manager application built using **React.js**.
+Users can log in, add tasks, and manage them efficiently.
 
-Features
-User Login (stored using localStorage)
-Add new task
-Delete tasks
-Data persistence using localStorage
-Fast and responsive UI
-Real-time updates
-Tech Stack
-Frontend: React.js
-State Management: useState, useEffect
-Storage: localStorage
-Styling: CSS
+---
 
+## 📌 Features
 
-📂 Project Structure
+* 🔐 User Login (stored in localStorage)
+* ➕ Add new tasks
+* 🗑️ Delete tasks
+* 💾 Data persistence using localStorage
+* ⚡ Fast and responsive UI
+
+---
+
+## 🛠️ Tech Stack
+
+* React.js
+* JavaScript
+* CSS
+* localStorage
+
+---
+
+## 📂 Project Structure
+
+```
 task-manager/
 │
 ├── public/
@@ -33,34 +43,43 @@ task-manager/
 │
 ├── package.json
 └── README.md
-⚙️ Installation & Setup
-Clone the repository
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
 git clone https://github.com/daneshreddy/Task-Manager.git
-Navigate to project folder
 cd Task-Manager
-Install dependencies
 npm install
-Run the application
 npm start
-🌐 Live Demo
+```
 
-🚧 Coming Soon (Deploy on Netlify / Vercel)
+---
 
-📸 Screenshots
-Login Page
-Dashboard Page
-Task Management UI
-🎯 Future Enhancements
-✏️ Edit tasks
-✅ Mark tasks as completed
-🔍 Search & filter tasks
-🌙 Dark mode
-🔐 Authentication with backend
-👨‍💻 Author
+## 🌐 Live Demo
 
-Danesh Reddy
+🚧 Coming Soon
 
+---
+
+## 🎯 Future Improvements
+
+* ✏️ Edit tasks
+* ✅ Mark tasks as completed
+* 🔍 Search tasks
+* 🌙 Dark mode
+
+---
+
+## 👨‍💻 Author
+
+**Danesh Reddy**
 GitHub: https://github.com/daneshreddy
-⭐ Support
+
+---
+
+## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
