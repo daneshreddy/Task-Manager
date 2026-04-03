@@ -14,6 +14,8 @@ Frontend: React.js
 State Management: useState, useEffect
 Storage: localStorage
 Styling: CSS
+
+
 📂 Project Structure
 task-manager/
 │
